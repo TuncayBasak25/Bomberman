@@ -1,1 +1,2 @@
-# Bomberman
+# JAW-Script
+# BomberDiv
